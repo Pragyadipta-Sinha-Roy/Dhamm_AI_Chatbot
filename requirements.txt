@@ -10,3 +10,4 @@ langchain
 streamlit
 langchain-groq
 matplotlib
+seaborn
