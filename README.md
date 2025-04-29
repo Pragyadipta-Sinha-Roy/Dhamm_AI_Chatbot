@@ -1,6 +1,6 @@
 # Dhamm_AI_Chatbot
 
-#Key Code Improvements I Made to CiviBot
+<h2>Key Code Improvements I Made to CiviBot</h2>
 (app3.py)
 Model & API Integration
 
@@ -25,7 +25,7 @@ Session management: Better initialization of session state variables
 Modular design: Implemented specialized functions for different responsibilities
 Documentation: Added detailed comments explaining functionality
 
-#Difference between (app3.py and app4.py)
+<h2>Difference between (app3.py and app4.py)</h2>
 Enhanced Sentiment Analysis
 
 More sophisticated detection: The second version has significantly improved sentiment analysis with:
@@ -45,7 +45,7 @@ Concrete follow-up suggestions: Specific questions to ask for each emotional sta
 Better formatting guidance: Clearer instructions on response structure and length
 Chat history integration: Explicit inclusion of chat history in prompt template
 
-#Improvements in app5.py - Bloom's Taxonomy
+<h2>Improvements in app5.py - Bloom's Taxonomy</h2>
 
 Cognitive Level Detection: The code now analyzes user questions to identify which of the six Bloom's Taxonomy levels they're operating at (Remember, Understand, Apply, Analyze, Evaluate, Create) based on specific verbs and question structures.
 Dynamic Prompt Generation: For each question, the bot generates a customized prompt template tailored to the specific cognitive level, helping the AI provide more appropriate responses.
