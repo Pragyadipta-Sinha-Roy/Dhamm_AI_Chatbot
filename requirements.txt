@@ -9,4 +9,4 @@ sentence-transformers
 langchain
 streamlit
 langchain-groq
-
+matplotlib
