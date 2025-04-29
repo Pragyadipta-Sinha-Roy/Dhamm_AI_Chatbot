@@ -25,6 +25,9 @@ Session management: Better initialization of session state variables
 Modular design: Implemented specialized functions for different responsibilities
 Documentation: Added detailed comments explaining functionality
 
+Vector Database
+Created the vectordatabase beforehand so that it doesn't take much of loading time.
+
 <h2>Difference between (app3.py and app4.py)</h2>
 Enhanced Sentiment Analysis
 
